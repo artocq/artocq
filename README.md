@@ -1,30 +1,47 @@
-<h1 align="center">👾 artocq / developer</h1>
-<p align="center"><samp>learn · build · improve</samp></p>
+<h1 align="center">Привет 👋 я Иван</h1>
 
----
+<p align="center"><b>Студент ДГТУ • Python + Unity + Telegram-боты</b></p>
 
-<h3 align="center">Stack & exploration</h3>
+<h3 align="center"><a href="https://github.com/artocq">Разработчик Voxify и Fathom Horror</a></h3>
+
+## 🌐 Связаться со мной
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react&theme=dark" alt="Python, JavaScript, TypeScript, HTML, CSS, React" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,git,github,githubactions&theme=dark" alt="Dart, Flutter, Git, GitHub, GitHub Actions" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" alt="VS Code, PyCharm" />
+  <a href="https://github.com/artocq"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<h3 align="center">GitHub stats</h3>
-<p align="center">
-  <a href="https://github.com/artocq?tab=repositories">
-    <img height="170" src="https://github-stats-extended.vercel.app/api?username=artocq&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e84393&icon_color=38bdf8&text_color=c9d1d9" alt="GitHub statistics for artocq" />
-  </a>
-  <a href="https://github.com/artocq?tab=repositories">
-    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=artocq&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e84393&text_color=c9d1d9" alt="Most used languages in public repositories" />
-  </a>
+## 💻 Стек
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cs,unity,swift,js,html,css,git,github,figma,vscode,apple,latex&perline=13" />
 </p>
 
-<h3 align="center">Contribution snake</h3>
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge)
+![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Terminal](https://img.shields.io/badge/ZSH-1A2C34?style=for-the-badge&logo=gnubash&logoColor=white)
+
+## 📊 GitHub-аналитика
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=artocq&theme=github-dark-blue&hide_border=true&background=0d1117" />
+</p>
+
+## 📈 График активности
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artocq&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" />
+</p>
+
+## ✍️ Случайная цитата разработчика
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+## 🐍 Змейка вкладов
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artocq/artocq/output/github-snake-dark.svg" />
